@@ -1,6 +1,5 @@
 package cz.czechitas.ukol07;
 
-
 import cz.czechitas.ukol07.svatky.SvatkySluzba;
 
 import java.io.IOException;
